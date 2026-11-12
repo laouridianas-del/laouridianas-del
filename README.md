@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a final-year **Embedded Electronic Systems & Systems Control Engineering** student at **ENSA Marrakech** (Class of 2027), passionate about low-level firmware development, digital hardware design, automotive E/E architectures, and Model-Based Design (MBD).
+
 <!--
 **laouridianas-del/laouridianas-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
